@@ -6,19 +6,10 @@ Tenho background em linguística e em 2024 comecei meus estudos em Engenharia de
 
 ### 🛠️ Principais Skills
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/GCP_Cert._Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Cloud_Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Cloud_Dataproc-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-B388FF?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
