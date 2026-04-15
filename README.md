@@ -1,6 +1,6 @@
 ## Hi and welcome! ✨
 
-Tenho background em linguística e em 2024 comecei meus estudos em Engenharia de Software. Este é o espaço onde documento  e compartilho parte do meu processo de evolução e projetos práticos nas áreas de programação e dados. 
+Tenho background em linguística e em 2024 comecei meus estudos em Engenharia de Software. Este é o espaço onde documento e compartilho parte do meu processo de aprendizagem e projetos práticos nas áreas de programação e de dados. 
 
 ---
 
